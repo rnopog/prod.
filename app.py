@@ -16,7 +16,7 @@ import numpy as np
 import pandas as pd
 import plotly.graph_objects as go
 import streamlit as st
-from scipy.optimize import curve_fit
+from scipy optimize import curve_fit
 
 # --------------------------------------------------------------------------------------
 # PAGE CONFIG & STYLE
